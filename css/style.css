@@ -18,19 +18,6 @@ body {
   color: #828282;
   background: #fff;
 }
-
-#logo-text {
-  display: inline;
-}
-
-/* Media query para pantallas pequeñas */
-@media only screen and (max-width: 480px) {
-  /* Ocultar el texto del logo en pantallas pequeñas */
-  #logo-text {
-    display: none;
-  }
-}
-
 #page {
   position: relative;
   overflow-x: hidden;
